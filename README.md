@@ -27,7 +27,7 @@ Apasionado por la arquitectura limpia, las buenas prácticas y el crecimiento co
 
 ---
 
-# 📊 GitHub Stats (animated)
+# 📊 GitHub Stats
 
 <div align="center">
 
