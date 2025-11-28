@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=3FA9F5&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+NovoxMx+👋;Fullstack+Developer+%F0%9F%9A%80;Building+Modern+and+High-Performance+Apps;Always+learning+new+tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=3FA9F5&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+NovoxMx;Fullstack+Developer;Building+Modern+and+High-Performance+Apps;Always+learning+new+tech!" />
 </p>
 
 ---
