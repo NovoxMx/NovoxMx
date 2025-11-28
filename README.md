@@ -6,8 +6,7 @@
 ---
 
 # 👨‍💻 About Me  
-Fullstack Developer enfocado en crear aplicaciones rápidas, dinámicas y bien estructuradas.  
-Apasionado por la arquitectura limpia, las buenas prácticas y el crecimiento constante.  
+Fullstack Software Developer committed to building, improving, and modernizing systems, applications, and web experiences that generate real value for both the company and the end user. While I work across the full development stack, my core strength and personal focus lie in Front-End development and user-centered UX/UI design. I’m driven by dynamic challenges and motivated to apply my skills to create clean, efficient, and engaging digital experiences. 
 
 ---
 
